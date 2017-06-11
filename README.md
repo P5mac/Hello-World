@@ -1,2 +1,6 @@
 # Hello-World
-Just another repository
+
+Hello,
+  
+  This is an example of changes to a master via a branch.
+  
